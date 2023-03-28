@@ -4,8 +4,8 @@
         "template": "",
         "exclusions": [],
         "timeouts": {
-            "perLanguage": 9999,
-            "perFile": 888
+            "perLanguage": 7777,
+            "perFile": 777
         },
         "maxFileSize": 45,
         "javaEngineGeneration": 1
